@@ -171,4 +171,6 @@ Codename BallOS プロジェクトについて 日本語版
 　・Codename BallOS Virtual Machine
 　　image Writerのようなチェックサム比較機能搭載。また、エミュレータモードとして別のアーキテクチャのエミュレートも可能。
   ・Codename BallOS Studio
-　　
+　　多くのプログラム言語のコンパイルなどを行ったり、作曲や作画などの制作を行うことができる。対応言語は後で掲載。
+　・Codename BallOS BroadCast
+　　専用に制作された無料の番組を視聴、配信できる。BSのような特別チャンネルも用意可能。
