@@ -10,7 +10,7 @@ Codename BallOS プロジェクトについて 日本語版
 その他、搭載する予定の機能、アプリケーションなどとその詳細は以下の通りです。
 # 計画、決定事項
 ・カーネル
-　カーネルは、
+　カーネルは、モノシリック、マイクロ、ハイブリットの三つのカーネルの版を用意する。
 ・開発期間など、開発段階
 　・開発段階
 　　以下の段階となる。
@@ -33,7 +33,7 @@ Codename BallOS プロジェクトについて 日本語版
 　　　⋆正式リリース:2036年5月31日
 　・コードネーム(正式リリース後)
 　　基本的に韓国、台湾、日本の三国の都市から決定する。マイナーバージョンはつけることが多いと思われるが、無い可能性もある。
-　  また、開発者向けの内部コードネームとしてスイーツ(主にアイスクリームの名前)も決定する。ただ、マイナーバージョンは内部コードネームは制定しない可能性がある。
+　  また、開発者向けの内部コードネームとしてスイーツの名前が付いたコードネーム(主にアイスクリームの名前)も決定する。ただ、マイナーバージョンは内部コードネームは制定しない可能性がある。
 　　・決定したコードネーム
 　　　⋆1.0:"Ulsan"(内部コードネーム:Cookkie & Cleam)
 　　　⋆1.1:"Sejong"
@@ -63,8 +63,8 @@ Codename BallOS プロジェクトについて 日本語版
 　　　 ⋆Setting
 　　　 ⋆Temp
 　　　 ⋆personalfiles
-　・対応言語
-　　以下の通り。
+　・対応言語(現時点)
+　　以下の通り。方言も対応する予定。
 　　⋆主要言語
 　　　韓国語、英語(英国)、日本語
 　　⋆準主要言語
@@ -74,6 +74,11 @@ Codename BallOS プロジェクトについて 日本語版
 　　⋆対応言語
 　　　アラビア語、ギリシャ語、ポルトガル語(ブラジル)、ベーシック英語、エスペラント、トキポナ
 　・システム要件
+　・エディションなど 
+　　⋆Long Support Release/LSR:最低で12年のサポートを提供する長期サポートバージョン。
+　　⋆compound Licence integrate Edition(複合ライセンス統合版):すべてのライセンスパックを含んだエディション。
+　　⋆Linux Edition、またはGNU/Linux Edition:Linuxベースだが、基本的には別プロジェクトとして創設予定のferenomの使用を推奨。
+　　⋆Codename BallOS Mobile:モバイル版。IPhoneや多くのAndroid端末に対応する予定。こちらもLinux版を用意するが、創設予定のferenom Mobileの使用を推奨。
 # コマンドについて
 　・fdilist
 　 ファイル、ディレクトリを一覧表示する。
@@ -96,6 +101,11 @@ Codename BallOS プロジェクトについて 日本語版
 　　ファイル、ディレクトリを削除する。
 　　
 # 機能などについて
+　・キーボード
+　　⋆Codename BallOS IME
+　　　多くの言語の変換をサポートする予定。
+　　⋆MozcなどGoogle IMEのオープンソース版※
+　　　機能パックで対応予定。
 　・対応ファイルシステム
 　対応ファイルシステムについては、以下の通りとなります。
 　　⋆CBOFS/Codename BallOS File System(独自ファイルシステム。後述に詳細を掲載する暗号化機能など搭載。)
@@ -116,8 +126,47 @@ Codename BallOS プロジェクトについて 日本語版
 　・対応ブートローダー
 　　⋆Codename BallOS Loader
 　　⋆GRUB※
-　　※複合ライセンス統合版、または機能パックとしての搭載。
+　・対応予定デスクトップ環境
+　　⋆Codename BallOS Desktop Enviroment
+　　⋆Codename BallOS Mobile Desktop Enviroment
+　　⋆Codename BallOS Custom Desktop Enviroment
+　　　他のOSに類似したUIを利用したり、作成したりできる。
+　　⋆CDE※
+　　⋆GNOME※
+　　  ⋆GNOME 1.4※
+　　  ⋆GNOME 2.26※
+　　  ⋆GNOME 3.38※
+　　⋆Ubuntu Desktop※
+　　⋆KDE1~6※
+　　⋆Cinnamon※
+　　⋆Budgie※
+　　⋆LXDE※
+　　⋆LXQt※
+　　⋆MATE※
+　　⋆Unity※
+　　⋆Xfce※
+　　⋆Pantheon※
+　　⋆GNUstep※
+　　⋆UKUI※
+　※複合ライセンス統合版、または機能パックとしての搭載。
 # アプリケーションについて
+　・Apatch OpenOffice?
+　　Apatchとの会談などを通じて決定する予定。
 　・Surfin Net系アプリケーション
-　　
-　　　
+　　⋆Surfin Net Browser
+　　⋆Surfin Net Mail
+　　⋆Surfin Net Messenger
+　・Codename BallOS File Manager
+　・Codename BallOS Archiver
+　　多くの圧縮形式を圧縮、解凍可能にする予定。
+　・Codename BallOS Notepad
+　・Codename BallOS Calculator
+　・Codename BallOS Calender
+　　リマインダー機能搭載予定。
+　・Codename BallOS Application Manager
+　　配信されたアプリケーションのダウンロード、インストール、アンインストールの支援と、インストールされたアプリケーションの一覧を確認したり、アンインストールしたアプリケーションを記録するなどができる。
+　・Codename BallOS image Writer
+　　USBに、DD書き込みや直接書き込みなどを行える。もちろんCD、DVDなども可能。また、イメージのチェックサムの確認と比較も可能で、チェックサムが一致しているか確認したいイメージファイルと、md5、SHA-128、SHA-256、SHA-512のいずれかのサムが記載されたファイルを選択して比較する。
+　・Codename BallOS アンチウィルス
+　・Codename BallOS Virtual Machine
+　　image Writerのようなチェックサム比較機能搭載。また、エミュレータモードとして別のアーキテクチャのエミュレートも可能。
