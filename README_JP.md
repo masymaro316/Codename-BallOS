@@ -170,3 +170,5 @@ Codename BallOS プロジェクトについて 日本語版
 　・Codename BallOS アンチウィルス
 　・Codename BallOS Virtual Machine
 　　image Writerのようなチェックサム比較機能搭載。また、エミュレータモードとして別のアーキテクチャのエミュレートも可能。
+  ・Codename BallOS Studio
+　　
