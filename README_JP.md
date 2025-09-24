@@ -99,8 +99,9 @@ Codename BallOS プロジェクトについて 日本語版
 　　　 ファイルを隠蔽状態にする。(GUI使用時限定)
 　・fdidel
 　　ファイル、ディレクトリを削除する。
-　・fdiCreate
+　・diCreate
  　 ファイル、ディレクトリを作成する。
+   ⋆
 # 機能などについて
 　・キーボード
 　　⋆Codename BallOS IME
