@@ -150,6 +150,7 @@ Codename BallOS プロジェクトについて 日本語版
 　　⋆Pantheon※
 　　⋆GNUstep※
 　　⋆UKUI※
+　  ⋆Trinity※
 　※複合ライセンス統合版、または機能パックとしての搭載。
 # アプリケーションについて
 　・Apatch OpenOffice?
