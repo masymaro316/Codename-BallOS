@@ -75,10 +75,20 @@ Codename BallOS プロジェクトについて 日本語版
 　　　ラテン語、アラビア語、ギリシャ語、ポルトガル語(ブラジル)、ベーシック英語、エスペラント、トキポナ
 　・システム要件
 　・エディションなど 
-　　⋆Long Support Release/LSR:最低で12年のサポートを提供する長期サポートバージョン。
+　　⋆Long Support Release/LSR:長期にわたるサポートを提供するエディション。
 　　⋆compound Licence integrate Edition(複合ライセンス統合版):すべてのライセンスパックを含んだエディション。
 　　⋆Linux Edition、またはGNU/Linux Edition:Linuxベースだが、基本的には別プロジェクトとして創設予定のferenomの使用を推奨。
 　　⋆Codename BallOS Mobile:モバイル版。IPhoneや多くのAndroid端末に対応する予定。こちらもLinux版を用意するが、創設予定のferenom Mobileの使用を推奨。
+  ・サポート(正式リリース後)
+  　⋆通常版:2年半
+    ⋆通常版(特例延長サポート):4年
+  　⋆LSR:6年
+    ⋆LSR(延長サポート):12年
+    ⋆LSR(再延長サポート):16年
+    ⋆LSR(特例延長サポート):20年
+    延長サポート以降は提供しない可能性がある。
+    また、「Extended Security Suport」(ESS)の申請によっていくらでも延長可能。ただし、4回目以降は拒否する可能性がある。
+    その他、特例延長サポートとは、特に人気がある場合に提供する追加のサポートである。
 # コマンドについて
 　・fdilist
 　 ファイル、ディレクトリを一覧表示する。
