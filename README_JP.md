@@ -163,8 +163,6 @@ Codename BallOS プロジェクトについて 日本語版
 　  ⋆Trinity※
 　※複合ライセンス統合版、または機能パックとしての搭載。
 # アプリケーションについて
-　・Apatch OpenOffice?
-　　Apatchとの会談などを通じて決定する予定。
 　・Surfin Net系アプリケーション
 　　⋆Surfin Net Browser
 　　⋆Surfin Net Mail
