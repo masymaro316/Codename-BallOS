@@ -1,6 +1,6 @@
 # Codename-BallOS
 Codename BallOS プロジェクトについて 日本語版
-最終更新日:2026年1月12日
+最終更新日:2026年3月23日
 ※あらかじめコードからご覧ください。
 こんにちは。初めての方は初めまして。私はmasymaroです。
 この度、2025年8月29日に、Codename BallOS プロジェクトの創設を宣言する事になりました。
@@ -176,7 +176,7 @@ Codename BallOS プロジェクトについて 日本語版
 　　配信されたアプリケーションのダウンロード、インストール、アンインストールの支援と、インストールされたアプリケーションの一覧を確認したり、アンインストールしたアプリケーションを記録するなどができる。
 　・Codename BallOS image Writer
 　　USBに、DD書き込みや直接書き込みなどを行える。もちろんCD、DVDなども可能。また、イメージのチェックサムの確認と比較も可能で、チェックサムが一致しているか確認したいイメージファイルと、md5、SHA-128、SHA-256、SHA-512のいずれかのサムが記載されたファイルを選択して比較する。
-　・Codename BallOS アンチウィルス
+　・Codename BallOS Anti-Virus
 　・Codename BallOS Virtual Machine
 　　image Writerのようなチェックサム比較機能搭載。また、エミュレータモードとして別のアーキテクチャのエミュレートも可能。
   ・Codename BallOS Studio
