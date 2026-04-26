@@ -1,8 +1,8 @@
 # Codename-BallOS
 Codename BallOS プロジェクトについて 日本語版
-最終更新日:2026年3月23日
+最終更新日:2026年4月26日
 ※あらかじめコードからご覧ください。
-こんにちは。初めての方は初めまして。私はmasymaroです。
+こんにちは。初めての方は初めまして。私は森江一記です。
 この度、2025年8月29日に、Codename BallOS プロジェクトの創設を宣言する事になりました。
 初めてのOSプロジェクト創設の為、いろいろ未確定な部分がある事はご理解してくださると幸いです。
 また、ライセンスは「Codename BallOS License」(独自ライセンス)を利用する予定です。
@@ -82,8 +82,6 @@ Codename BallOS プロジェクトについて 日本語版
     ⋆通常版(特例延長サポート):4年
   　⋆LSR:6年
     ⋆LSR(延長サポート):12年
-    ⋆LSR(再延長サポート):16年
-    ⋆LSR(特例延長サポート):20年
     延長サポート以降は提供しない可能性がある。
     また、「Extended Security Suport」(ESS)の申請によっていくらでも延長可能。ただし、4回目以降は拒否する可能性がある。
     その他、特例延長サポートとは、特に人気がある場合に提供する追加のサポートである。
@@ -162,9 +160,13 @@ Codename BallOS プロジェクトについて 日本語版
 　※複合ライセンス統合版、または機能パックとしての搭載。
 # アプリケーションについて
 　・Surfin Net系アプリケーション
-　　⋆Surfin Net Browser
-　　⋆Surfin Net Mail
-　　⋆Surfin Net Messenger
+　　⋆Surfin Net Browser 
+　　⋆Surfin Net Mail 
+　　⋆Surfin Net Call 
+　　⋆Surfin Net Downloader
+　　⋆Surfin Net FTP 
+　　⋆Surfin Net Torrent 
+　　⋆Surfin Net layout engine(アプリケーションではないが便宜上ここに掲載)
 　・Codename BallOS File Manager
 　・Codename BallOS Archiver
 　　多くの圧縮形式を圧縮、解凍可能にする予定。
