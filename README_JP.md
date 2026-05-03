@@ -1,10 +1,9 @@
 # Codename-BallOS
 Codename BallOS プロジェクトについて 日本語版
-最終更新日:2026年5月1日
+最終更新日:2026年5月4日
 ※あらかじめコードからご覧ください。
 こんにちは。初めての方は初めまして。私は森江一記です。
 この度、2025年8月29日に、Codename BallOS プロジェクトの創設を宣言する事になりました。
-初めてのOSプロジェクト創設の為、いろいろ未確定な部分がある事はご理解してくださると幸いです。
 また、ライセンスは「Codename BallOS License」(独自ライセンス)を利用する予定です。
 ライセンス情報は、別の.mdファイルに掲載しますので、ご確認ください。
 その他、搭載する予定の機能、アプリケーションなどとその詳細は以下の通りです。
@@ -78,14 +77,12 @@ Codename BallOS プロジェクトについて 日本語版
 　・エディションなど 
 　　⋆Long Support Release/LSR:長期にわたるサポートを提供するエディション。
 　　⋆compound Licence integrate Edition(複合ライセンス統合版):すべてのライセンスパックを含んだエディション。
-　　⋆Linux Edition、またはGNU/Linux Edition:Linuxベースだが、基本的には別プロジェクトとして創設予定のferenomの使用を推奨。
-　　⋆Codename BallOS Mobile:モバイル版。IPhoneや多くのAndroid端末に対応する予定。こちらもLinux版を用意するが、創設予定のferenom Mobileの使用を推奨。
+　　⋆Codename BallOS Mobile:モバイル版。主にAndroid端末に対応する予定。
   ・サポート(正式リリース後)
   　⋆通常版:2年半
     ⋆通常版(特例延長サポート):4年
   　⋆LSR:6年
-    ⋆LSR(特例延長サポート):12年
-    延長サポート以降は提供しない可能性がある。
+    ⋆LSR(特例延長サポート):10年
     また、「Extended Security Suport」(ESS)の申請によって(一応)いくらでも延長可能。ただし、24か月以上の延長申請は基本的に拒否する。
     そのため、実質的にESSで最大2年まで延長可能。
     その他、特例延長サポートとは、特に人気がある場合に提供する追加のサポートである。
@@ -143,24 +140,6 @@ Codename BallOS プロジェクトについて 日本語版
 　　⋆Codename BallOS Mobile Desktop Enviroment
 　　⋆Codename BallOS Custom Desktop Enviroment
 　　　他のOSに類似したUIを利用したり、作成したりできる。
-　　⋆CDE※
-　　⋆GNOME※
-　　  ⋆GNOME 1.4※
-　　  ⋆GNOME 2.26※
-　　  ⋆GNOME 3.38※
-　　⋆Ubuntu Desktop※
-　　⋆KDE1~6※
-　　⋆Cinnamon※
-　　⋆Budgie※
-　　⋆LXDE※
-　　⋆LXQt※
-　　⋆MATE※
-　　⋆Unity※
-　　⋆Xfce※
-　　⋆Pantheon※
-　　⋆GNUstep※
-　　⋆UKUI※
-　  ⋆Trinity※
 　※複合ライセンス統合版、または機能パックとしての搭載。
 # アプリケーションについて
 　・Surfin Net系アプリケーション
@@ -187,5 +166,3 @@ Codename BallOS プロジェクトについて 日本語版
 　　image Writerのようなチェックサム比較機能搭載。また、エミュレータモードとして別のアーキテクチャのエミュレートも可能。
   ・Codename BallOS Studio
 　　多くのプログラム言語のコンパイルなどを行ったり、作曲や作画などの制作を行うことができる。対応言語は後で掲載。
-　・Codename BallOS BroadCast
-　　Codename BallOS BroadCast専用に制作された無料のラジオ、ビデオ番組を視聴、配信できる。BSのような特別チャンネルも用意可能。
