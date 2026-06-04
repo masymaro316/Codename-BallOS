@@ -145,7 +145,7 @@ Codename BallOS プロジェクトについて 日本語版
 　・Surfin Net系アプリケーション
 　　⋆Surfin Net Browser 
 　　⋆Surfin Net Mail 
-　　⋆Surfin Net Call 
+　　⋆Surfin Net Talk
 　　⋆Surfin Net Downloader
 　　⋆Surfin Net FTP 
 　　⋆Surfin Net Torrent 
