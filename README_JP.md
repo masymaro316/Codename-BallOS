@@ -67,12 +67,8 @@ Codename BallOS プロジェクトについて 日本語版
 　　　 ⋆Setting
 　　　 ⋆Temp
 　　　 ⋆personalfiles
-　・対応言語(現時点)
-　　以下の通り。方言も対応する予定。
-　　⋆主要言語
-　　　韓国語、英語(英国)、英語(アメリカ合衆国)、日本語
-　　⋆準主要言語
-　　　フランス語、ロシア語、中国語、スペイン語
+　・主要言語
+　　　日本語、英語(アメリカ合衆国)
 　・システム要件
 　・エディションなど 
 　　⋆Long Support Release/LSR:長期にわたるサポートを提供するエディション。
@@ -145,7 +141,7 @@ Codename BallOS プロジェクトについて 日本語版
 　・Surfin Net系アプリケーション
 　　⋆Surfin Net Browser 
 　　⋆Surfin Net Mail 
-　　⋆Surfin Net Talk
+　　⋆Surfin Net Call
 　　⋆Surfin Net Downloader
 　　⋆Surfin Net FTP 
 　　⋆Surfin Net Torrent 
@@ -164,5 +160,3 @@ Codename BallOS プロジェクトについて 日本語版
 　・Codename BallOS Anti-Virus
 　・Codename BallOS Virtual Machine
 　　image Writerのようなチェックサム比較機能搭載。また、エミュレータモードとして別のアーキテクチャのエミュレートも可能。
-  ・Codename BallOS Studio
-　　多くのプログラム言語のコンパイルなどを行ったり、作曲や作画などの制作を行うことができる。対応言語は後で掲載。
